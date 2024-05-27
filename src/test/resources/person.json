@@ -1,0 +1,11 @@
+{
+  "id": 123,
+  "name": "John",
+  "permanent": true,
+  "address": {
+    "street": "Albany Dr",
+    "city": "San Jose"
+  },
+  "phoneNumbers": [123456, 987654],
+  "role": "Manager"
+}
